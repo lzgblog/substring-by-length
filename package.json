@@ -1,6 +1,6 @@
 {
   "name": "substring-by-length",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "substring-by-length",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lzgblog/substring-by-length.git"
+    "url": "https://github.com/lzgblog/substring-by-length.git"
   },
   "author": "",
   "license": "ISC",
