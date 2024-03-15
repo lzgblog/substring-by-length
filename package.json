@@ -1,6 +1,6 @@
 {
   "name": "substring-by-length",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "substring-by-length",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/lzgblog/substring-by-length#readme",
   "dependencies": {
+    "check-ip-util": "^1.0.2",
     "cowsay": "^1.6.0",
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "graph-tea": "^1.0.2",
+    "tea-character-graph": "^1.0.1",
+    "tea-classification-description": "^1.0.1",
+    "tea-introduce": "^1.0.0",
+    "tea-word-art": "^1.0.0"
   }
 }
