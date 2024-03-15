@@ -1,11 +1,5 @@
 const figlet = require('figlet');
 const cowsay = require('cowsay');
-const graphtea = require('graph-tea');
-const teawordart = require('tea-word-art');
-const teacharactergraph = require('tea-character-graph');
-const teaclassificationdescription = require('tea-classification-description');
-const teaintroduce = require('tea-introduce');
-const checkiputil = require('check-ip-util');
 
 function substringByLength(n) {
         var str = this;

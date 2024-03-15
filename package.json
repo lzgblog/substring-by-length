@@ -1,6 +1,6 @@
 {
   "name": "substring-by-length",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "substring-by-length",
   "main": "index.js",
   "scripts": {
